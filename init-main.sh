@@ -1,7 +1,7 @@
 #!/bin/bash
 
-chmod +x tst-unit.sh
-chmod +x mntrng-unit.sh
+chmod +x unit-mntrng.sh
+chmod +x unit-tst.sh
 
-./tst-unit.sh
-./mntrng-unit.sh
+./unit-tst.sh
+./unit-mntrng.sh
